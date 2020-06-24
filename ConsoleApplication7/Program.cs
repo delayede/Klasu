@@ -120,7 +120,7 @@ namespace ConsoleApplication7
 
         {
 
-            name = " FIFA";
+            name = " Try Harder";
 
             author = new Person();
 
